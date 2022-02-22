@@ -1,0 +1,24 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG-Battle",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christiandc19/RPG-battle.git"
+  },
+  "author": "Christian Carandang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christiandc19/RPG-battle/issues"
+  },
+  "homepage": "https://github.com/christiandc19/RPG-battle#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+
+  
+}
