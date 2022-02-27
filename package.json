@@ -2,7 +2,7 @@
   "name": "jest-another-rpg",
   "version": "1.0.0",
   "description": "RPG-Battle",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
